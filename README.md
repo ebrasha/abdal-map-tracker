@@ -1,6 +1,12 @@
 # Abdal Map Tracker
 
 
+[![Download Abdal Map Tracker](https://img.shields.io/sourceforge/dt/abdal-map-tracker.svg)](https://sourceforge.net/projects/abdal-map-tracker/files/latest/download)
+
+
+
+[![Download Abdal Map Tracker](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/abdal-map-tracker/files/latest/download)
+
 
 
 
