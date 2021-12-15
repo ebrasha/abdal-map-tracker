@@ -43,6 +43,13 @@ Features
 - Open Source
 - high speed
 
+**How To create Geographic coordinate  file ?**
+
+it's easy, just create a txt file and put  latitude longitude per line like :
+
+26.547371,53.983546
+
+
 ## ❤️ Donation
 > Donate link: https://donate.abdalagency.ir/
 
